@@ -10,7 +10,6 @@ else:
 
 # Method 2: without slicing
 s = "madam"
-
 reversed_string = ""
 
 for char in s:
