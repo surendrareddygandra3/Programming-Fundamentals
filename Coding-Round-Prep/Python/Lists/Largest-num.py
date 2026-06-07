@@ -2,6 +2,8 @@ nums = [10, 25, 5, 40, 15]
 
 print(max(nums))
 
+
+
 # Method 2: without built-in function
 # Input list
 nums = [10, 25, 5, 40, 15]
