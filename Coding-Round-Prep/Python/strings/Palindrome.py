@@ -16,6 +16,6 @@ for char in s:
     reversed_string = char + reversed_string
 
 if s == reversed_string:
-    print("Palindrome")
+    print("Palindrome.")
 else:
-    print("Not Palindrome")
+    print("Not Palindrome.")
